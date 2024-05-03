@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@luzmo/react-embed": "^5.0.16"
+  }
+}
